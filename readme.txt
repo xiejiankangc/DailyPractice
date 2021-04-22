@@ -1,6 +1,11 @@
 this is a test. 
 Git is free software.
 v3.0 GPL
-Git has a mutable index called sqd
-Create a new branch is quick @ simple.
+<<<<<<< HEAD
+Git has a mutable index called stage.
+Create a new branch is quick and simple.
+=======
+Git has a mutable index called stage.
+Create a new branch is quick and simple.
+>>>>>>> feature1
 
